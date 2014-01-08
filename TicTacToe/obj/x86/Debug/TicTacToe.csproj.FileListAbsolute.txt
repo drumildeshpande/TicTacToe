@@ -1,0 +1,39 @@
+C:\Users\Farid\Desktop\FRD C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Farid\Desktop\FRD C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Farid\Desktop\FRD C#\TicTacToe\TicTacToe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Farid\Desktop\FRD C#\TicTacToe\TicTacToe\obj\x86\Debug\MainWindow.baml
+C:\Users\Farid\Desktop\FRD C#\TicTacToe\TicTacToe\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Farid\Desktop\FRD C#\TicTacToe\TicTacToe\obj\x86\Debug\App.g.cs
+C:\Users\Farid\Desktop\FRD C#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe_MarkupCompile.cache
+C:\Users\Farid\Desktop\FRD C#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.g.resources
+C:\Users\Farid\Desktop\FRD C#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Farid\Desktop\FRD C#\TicTacToe\TicTacToe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Farid\Desktop\FRD C#\TicTacToe\TicTacToe\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Farid\Desktop\FRD C#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.exe
+C:\Users\Farid\Desktop\FRD C#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.pdb
+C:\Users\Farid\Desktop\FRD C# Ankara\FRD C# Lenkeran\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.exe
+C:\Users\Farid\Desktop\FRD C# Ankara\FRD C# Lenkeran\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.pdb
+C:\Users\Farid\Desktop\FRD C# Ankara\FRD C# Lenkeran\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Farid\Desktop\FRD C# Ankara\FRD C# Lenkeran\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Farid\Desktop\FRD C# Ankara\FRD C# Lenkeran\TicTacToe\TicTacToe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Farid\Desktop\FRD C# Ankara\FRD C# Lenkeran\TicTacToe\TicTacToe\obj\x86\Debug\MainWindow.baml
+C:\Users\Farid\Desktop\FRD C# Ankara\FRD C# Lenkeran\TicTacToe\TicTacToe\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Farid\Desktop\FRD C# Ankara\FRD C# Lenkeran\TicTacToe\TicTacToe\obj\x86\Debug\App.g.cs
+C:\Users\Farid\Desktop\FRD C# Ankara\FRD C# Lenkeran\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe_MarkupCompile.cache
+C:\Users\Farid\Desktop\FRD C# Ankara\FRD C# Lenkeran\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.g.resources
+C:\Users\Farid\Desktop\FRD C# Ankara\FRD C# Lenkeran\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Farid\Desktop\FRD C# Ankara\FRD C# Lenkeran\TicTacToe\TicTacToe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Farid\Desktop\FRD C# Ankara\FRD C# Lenkeran\TicTacToe\TicTacToe\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\drumil\projects\c#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.exe
+E:\drumil\projects\c#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.pdb
+E:\drumil\projects\c#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+E:\drumil\projects\c#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+E:\drumil\projects\c#\TicTacToe\TicTacToe\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\drumil\projects\c#\TicTacToe\TicTacToe\obj\x86\Debug\MainWindow.baml
+E:\drumil\projects\c#\TicTacToe\TicTacToe\obj\x86\Debug\MainWindow.g.cs
+E:\drumil\projects\c#\TicTacToe\TicTacToe\obj\x86\Debug\App.g.cs
+E:\drumil\projects\c#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe_MarkupCompile.cache
+E:\drumil\projects\c#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.g.resources
+E:\drumil\projects\c#\TicTacToe\TicTacToe\obj\x86\Debug\TicTacToe.Properties.Resources.resources
+E:\drumil\projects\c#\TicTacToe\TicTacToe\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\drumil\projects\c#\TicTacToe\TicTacToe\obj\x86\Debug\GenerateResource.write.1.tlog
